@@ -2,7 +2,7 @@
 
 ## About me🙋‍♀️
 
-  Soy **Front end Developer** en constante aprendizaje, en noviembre del año 2021 comencé este viaje🚀de la mano de un bootcamp intensivo de una organización a la que le tengo mucho cariño: **Laboratoria**.
+  Soy **Front end Developer** en constante aprendizaje, en noviembre del año 2021 comencé este viaje🚀de la mano de un bootcamp intensivo de **Laboratoria**.
   Con un background como nutricionista, aterricé en un ecosistema muy diferente al que estaba acostumbrada, donde me familiarice con nuevos desafíos, nuevos aprendizajes y una nueva y muy interesante forma de pensar.
 
 ## Herramientas y lenguajes: 
